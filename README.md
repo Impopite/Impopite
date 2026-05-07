@@ -37,11 +37,11 @@ focus:      Backend Development
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Impopite&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&rank_icon=github&hide_border=false" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zImpoo&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&text_color=e2e8f0&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impopite&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&text_color=e2e8f0&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zImpoo&theme=tokyonight&background=0d0d0d&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=94a3b8" />
+<img src="https://streak-stats.demolab.com?user=Impopite&theme=tokyonight&background=0d0d0d&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=94a3b8" />
 
 </div>
 
@@ -53,7 +53,7 @@ focus:      Backend Development
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-%230d0d0d.svg?style=for-the-badge&logo=openjdk&logoColor=a855f7)
+![Java](https://img.shields.io/badge/Java-%230d0d0d.svg?style=for-the-badge&logo=coffeescript&logoColor=a855f7)
 ![Python](https://img.shields.io/badge/Python-%230d0d0d.svg?style=for-the-badge&logo=python&logoColor=a855f7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=for-the-badge&logo=javascript&logoColor=a855f7)
 ![PHP](https://img.shields.io/badge/PHP-%230d0d0d.svg?style=for-the-badge&logo=php&logoColor=a855f7)
@@ -75,12 +75,12 @@ focus:      Backend Development
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zImpoo&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Impopite&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Computer Engineering Student · Developer <a href="[https://github.com/CoralMC](https://github.com/CoralRP)">CoralMC/AtlantisRP</a></sub>
+<sub>Computer Engineering Student · Developer @ <a href="https://github.com/CoralMC">CoralMC</a> / AtlantisRP</sub>
 </div>
