@@ -6,7 +6,7 @@
 
 # zImpoo · Impopite
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer+%40+AtlantisRP;Java+%7C+Python+%7C+JavaScript+%7C+PHP+%7C+C%2B%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Developer+%40+AtlantisRP;Java+%7C+Python+%7C+JavaScript+%7C+PHP+%7C+C%2B%2B" alt="Typing SVG" />
 
 </div>
 
@@ -19,10 +19,10 @@
 </div>
 
 ```yaml
-name:       Impopite
+name:       Andrea
 alias:      zImpoo
 role:       Computer Engineering Student
-work:       Developer @ AtlantisRP  (a CoralMC signed project)
+work:       Developer @AtlantisRP  (@CoralMC signed project)
 languages:  [ Java, Python, JavaScript, PHP, C++ ]
 focus:      Backend Development
 ```
@@ -35,7 +35,7 @@ focus:      Backend Development
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zImpoo&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&rank_icon=github&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Impopite&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&rank_icon=github&hide_border=false" />
 &nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zImpoo&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&text_color=e2e8f0&hide_border=false" />
 
@@ -82,5 +82,5 @@ focus:      Backend Development
 ---
 
 <div align="center">
-<sub>Computer Engineering Student · Developer @ <a href="https://github.com/CoralMC">@CoralMC</a> · AtlantisRP</sub>
+<sub>Computer Engineering Student · Developer <a href="[https://github.com/CoralMC](https://github.com/CoralRP)">CoralMC/AtlantisRP</a></sub>
 </div>
