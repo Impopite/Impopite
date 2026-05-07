@@ -31,16 +31,15 @@ focus:      Backend Development
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 💬 About Me
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Impopite&theme=dark" width="100%" />
+> I am a **Full Stack Developer** with a strong foundation in Java and Web Development. I enjoy building software that is not only functional, but also high-performance, scalable, and easy to maintain over time.
 
-<br/>
+> Over the years, I have worked with many different languages and paradigms — from object-oriented programming in Java, to modern interfaces with JavaScript, and scripting with Python and Lua.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Impopite&theme=dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Impopite&theme=dark" width="49%" />
+> I am always curious, always up to date, and I find satisfaction in solving complex problems with **simple and elegant solutions**.
 
 </div>
 
