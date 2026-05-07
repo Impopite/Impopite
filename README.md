@@ -35,13 +35,12 @@ focus:      Backend Development
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Impopite&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&rank_icon=github&hide_border=false" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impopite&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a855f7&text_color=e2e8f0&hide_border=false" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Impopite&theme=dark" width="100%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Impopite&theme=tokyonight&background=0d0d0d&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=94a3b8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Impopite&theme=dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Impopite&theme=dark" width="49%" />
 
 </div>
 
