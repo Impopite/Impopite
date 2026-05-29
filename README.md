@@ -6,7 +6,7 @@
 
 # zImpoo · Impopite
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Developer+%40+AtlantisRP;Java+%7C+Python+%7C+JavaScript+%7C+PHP+%7C+C%2B%2B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Java+Developer;Jr.+Web+Developer" alt="Typing SVG" />
 
 </div>
 
