@@ -19,12 +19,12 @@
 </div>
 
 ```yaml
-name:       Andrea
-alias:      zImpoo
-role:       Computer Engineering Student
-work:       Developer @AtlantisRP  (@CoralMC signed project)
-languages:  [ Java, Python, JavaScript, PHP, C++ ]
-focus:      Backend Development
+name: Andrea
+alias: zImpoo
+role: Computer Engineering Student
+work: Developer @AtlantisRP  (@CoralMC signed project)
+languages: [ Java, Python, JavaScript, PHP, C++ ]
+focus: Backend Development
 ```
 
 ---
