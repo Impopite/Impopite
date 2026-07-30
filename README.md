@@ -24,7 +24,7 @@ alias: zImpoo
 role: Computer Engineering Student
 work: Developer @AtlantisRP  (@CoralMC signed project)
 languages: [ Java, Python, JavaScript, PHP, C++ ]
-focus: Backend Development
+focus: Backend Development, Jr Web Developer
 ```
 
 ---
@@ -36,9 +36,9 @@ focus: Backend Development
 <br/>
 
 > I am a **Full Stack Developer** with a strong foundation in Java and Web Development. I enjoy building software that is not only functional, but also high-performance, scalable, and easy to maintain over time.
-
-> Over the years, I have worked with many different languages and paradigms — from object-oriented programming in Java, to modern interfaces with JavaScript, and scripting with Python and Lua.
-
+> 
+> Over the years, I have worked with many different languages and paradigms, from object-oriented programming in Java, to modern interfaces with JavaScript, and scripting with Python and Lua.
+> 
 > I am always curious, always up to date, and I find satisfaction in solving complex problems with **simple and elegant solutions**.
 
 </div>
@@ -80,5 +80,5 @@ focus: Backend Development
 ---
 
 <div align="center">
-<sub>Computer Engineering Student · Developer @ <a href="https://github.com/CoralMC">CoralMC</a> / AtlantisRP</sub>
+<sub>Computer Engineering Student · Developer @ <a href="https://github.com/CoralRP">AtlantisRP</a> / CoralMC</sub>
 </div>
