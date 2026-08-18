@@ -6,7 +6,7 @@
 
 # zImpoo · Impopite
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Java+Developer;Jr.+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Java+Developer;Jr.+Web+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,7 @@
 ```yaml
 name: Andrea
 alias: zImpoo
-role: Computer Engineering Student
+role: Computer Science Student
 work: Developer @AtlantisRP  (@CoralMC signed project)
 languages: [ Java, Python, JavaScript, PHP, C++ ]
 focus: Backend Development, Jr Web Developer
@@ -80,5 +80,5 @@ focus: Backend Development, Jr Web Developer
 ---
 
 <div align="center">
-<sub>Computer Engineering Student · Developer @ <a href="https://github.com/CoralRP">AtlantisRP</a> / CoralMC</sub>
+<sub>Computer Science Student · Developer @ <a href="https://github.com/CoralRP">AtlantisRP</a> / CoralMC</sub>
 </div>
