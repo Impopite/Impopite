@@ -22,7 +22,7 @@
 name: Andrea
 alias: zImpoo
 role: Computer Science Student
-work: Developer @AtlantisRP  (@CoralMC signed project)
+work: Developer AtlantisRP  (CoralMC signed project), Jr. Developer on CoralMC
 languages: [ Java, Python, JavaScript, PHP, C++ ]
 focus: Backend Development, Jr Web Developer
 ```
