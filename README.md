@@ -71,10 +71,6 @@ focus: Backend Development, Jr Web Developer
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-%40tentava-%230d0d0d?style=for-the-badge&logo=telegram&logoColor=a855f7)](https://t.me/tentava)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Impopite&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
