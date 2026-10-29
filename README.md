@@ -65,9 +65,11 @@ I like turning messy, complicated problems into **simple, elegant solutions**, a
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,js,php,cpp,lua&perline=7" alt="Java, Python, JavaScript, PHP, C++, Lua" />
+<img src="https://skillicons.dev/icons?i=java,py,js,php,cpp&perline=7" alt="Java, Python, JavaScript, PHP, C++" />
 
-<br/><br/>
+<sub>Java  · Python · JavaScript · PHP · C++ </sub>
+
+<br/>
 
 **Backend & Minecraft**
 
@@ -76,11 +78,16 @@ I like turning messy, complicated problems into **simple, elegant solutions**, a
 
 <sub>Paper · Spigot/Bukkit  · MySQL · Redis · Gradle</sub>
 
-<br/><br/>
+<br/>
 
 **Web & Tools**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,idea&perline=7" alt="HTML, CSS, React, Node.js, Git, IntelliJ IDEA" />
+
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,idea,vscode,postman&perline=8" alt="HTML, CSS, React, Node.js, Git, IntelliJ IDEA, Visual Studio Code, Postman" />
+
+
+<sub>HTML · CSS · React · Node.js · Git · Intellij IDEA · Visual Studio Code · Postman</sub>
 
 </div>
 
@@ -127,10 +134,9 @@ Authentication for Minecraft servers. BCrypt password hashing, premium login sup
 
 <img
   height="165"
-  src="https://github-stats-extended.vercel.app/api?username=Impopite&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=a1a1aa&include_all_commits=true&rank_icon=github"
-  alt="GitHub Stats"
-/>
-<img
+  src="https://github-stats-extended.vercel.app/api?username=Impopite&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=a1a1aa&include_all_commits=true&show=prs_authored,prs_merged,issues_authored,contributions"
+  alt="GitHub stats"
+/> <img
   height="165"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=Impopite&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=a1a1aa&langs_count=8"
   alt="Top Languages"
