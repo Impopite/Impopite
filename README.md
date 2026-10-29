@@ -72,7 +72,7 @@ I like turning messy, complicated problems into **simple, elegant solutions**, a
 **Backend & Minecraft**
 
 <img src="https://cdn.simpleicons.org/spigotmc" height="48" alt="Spigot / Bukkit" />&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,redis,gradle&perline=4" alt="MySQL, MariaDB, Redis, Gradle" />
+<img src="https://skillicons.dev/icons?i=mysql,redis,gradle&perline=4" alt="MySQL, Redis, Gradle" />
 
 <sub>Paper · Spigot/Bukkit  · MySQL · Redis · Gradle</sub>
 
