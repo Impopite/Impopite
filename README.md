@@ -144,7 +144,11 @@ Authentication for Minecraft servers. BCrypt password hashing, premium login sup
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Impopite&hide_border=true&background=0D0D0D&stroke=27272A&ring=A855F7&fire=A855F7&currStreakNum=FAFAFA&currStreakLabel=A855F7&sideNums=FAFAFA&sideLabels=A1A1AA&dates=71717A" alt="Streak" />
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=Impopite&hide_border=true&background=0D0D0D&stroke=27272A&ring=A855F7&fire=A855F7&currStreakNum=FAFAFA&currStreakLabel=A855F7&sideNums=FAFAFA&sideLabels=A1A1AA&dates=71717A"
+  alt="GitHub Streak"
+/>
+
 
 </div>
 
