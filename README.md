@@ -4,7 +4,7 @@
 
 <h1>zImpoo • <code>Andrea</code></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=560&lines=Computer+Science+Student;Java+%26+Paper+Plugin+Developer;Backend+%7C+Minecraft+Networks;Fast%2C+clean%2C+maintainable+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=560&lines=Computer+Science+Student;Java+Developer;Jr+Web+Developer" alt="Typing SVG" />
 
 <br/>
 
